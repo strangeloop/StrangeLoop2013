@@ -1,7 +1,4 @@
-tl;dr:
-```clojure
-(< slides website)
-```
+tl;dr: ```clojure (< slides website) ```
 
 Slides make no one happy. Authors struggle to add content without making them [slideuments](http://www.presentationzen.com/presentationzen/2006/04/slideuments_and.html). Listeners read them at a different pace than speakers speak them. Both abandon them after the applause dies down.
 
